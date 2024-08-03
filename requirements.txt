@@ -1,0 +1,9 @@
+streamlit 
+st-gsheets-connection
+pandas
+gspread
+oauth2client
+streamlit-option-menu
+Pillow
+opencv-python
+numpy
